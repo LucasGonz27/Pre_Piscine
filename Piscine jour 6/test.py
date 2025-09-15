@@ -1,1 +1,1 @@
-regee
+print("hello world")
